@@ -50,3 +50,5 @@ Your submission will be evaluated based on:
 - Live Dashboard link :
 -  https://ev-dashboard-sigma.vercel.app/
 -  Deployed in Vercel
+-  Github Repository :
+-  https://github.com/GRUMPY-TUCKER/ev-dashboard
