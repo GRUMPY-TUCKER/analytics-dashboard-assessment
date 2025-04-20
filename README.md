@@ -46,3 +46,6 @@ Your submission will be evaluated based on:
 - https://colab.research.google.com/drive/152haVkTnUlByNpxcPlEKJxeUBwbOzfZL?usp=sharing
 - I have used first of all some data analytics tool to findout the year trends and due to time constraint I was able to give the year trends graph into my website
 - For data analytrics to find out the optimised results I used Pandas,Numpy and Matplotlib
+- Live Dashboard link :
+-  https://ev-dashboard-sigma.vercel.app/
+-  Deployed in Vercel
