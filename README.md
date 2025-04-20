@@ -41,3 +41,8 @@ Your submission will be evaluated based on:
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
   - kandaramit5@gmail.com
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+##Submission :
+- https://colab.research.google.com/drive/152haVkTnUlByNpxcPlEKJxeUBwbOzfZL?usp=sharing
+- I have used first of all some data analytics tool to findout the year trends and due to time constraint I was able to give the year trends graph into my website
+- For data analytrics to find out the optimised results I used Pandas,Numpy and Matplotlib
